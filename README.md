@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheilah-ndiema&label=Profile%20views&color=0e75b6&style=flat" alt="sheilah-ndiema" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheilah-ndiema" alt="sheilah-ndiema" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheilah-ndiema&theme=onedark&title=Repositories,Commit,PullRequest" alt="sheilah-ndiema" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sheilah_ndiema" target="blank"><img src="https://img.shields.io/twitter/follow/sheilah_ndiema?logo=twitter&style=for-the-badge" alt="sheilah_ndiema" /></a> </p>
 
