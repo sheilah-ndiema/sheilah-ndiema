@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Ruby* Labs*
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Ruby on rails**
 
 - 👯 I’m looking to collaborate on **React & JavaScript**
 
