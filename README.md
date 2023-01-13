@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheilah_ndiema" target="blank"><img src="https://img.shields.io/twitter/follow/sheilah_ndiema?logo=twitter&style=for-the-badge" alt="sheilah_ndiema" /></a> </p>
 
-- 🔭 I’m currently working on **React and Ruby* Project*
+- 🔭 I’m currently working on **React and Ruby Projects*
 
 - 🌱 I’m currently learning **Ruby on rails**
 
