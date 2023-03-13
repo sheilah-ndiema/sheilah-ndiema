@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **React and Ruby Projects*
 
-- 🌱 I’m currently learning **Ruby on rails**
+- 🌱 I’m currently learning **next-js**
 
-- 👯 I’m looking to collaborate on **React & JavaScript**
+- 👯 I’m looking to collaborate on **React,JavaScript& Ruby projects**
 
 - 👨‍💻 All of my projects are available at [sheilah-ndiema.github.io](sheilah-ndiema.github.io)
 
